@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geocomms</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoicm9nZXJpb2xpbWFqcmwiLCJhIjoiY21pOTYyempmMGhibDJpcHhud3o1Mnp5NSJ9.K6qGGtxbMrz0DKYmsv-ktA</string>
+</resources>
