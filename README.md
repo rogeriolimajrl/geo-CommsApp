@@ -56,14 +56,13 @@ MAPBOX_PUBLIC_TOKEN=seu_token_publico_aqui
 
 ## AndroidManifest.xml:
 
-/*
-<uses-permission android:name="android.permission.INTERNET"/>
-<uses-permission android:name="android.permission.RECORD_AUDIO"/>
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
-<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
-*/
+android.permission.INTERNET
+android.permission.RECORD_AUDIO
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_COARSE_LOCATION
+
 
 ## Como Rodar o Projeto
 
